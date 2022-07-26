@@ -60,3 +60,10 @@ article{
 input{
   margin-bottom: 1rem;
 }
+
+.perro{
+  height: 200px;
+  background-image: url("https://t2.ea.ltmcdn.com/es/razas/9/7/5/dogo-argentino_579_0_orig.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
